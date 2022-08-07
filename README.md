@@ -4,9 +4,9 @@
 Taskinator is an active to-do list that functions for your needs. You can add your own tasks, keep them in organized boxes during the completion stages, and even keep them in place when you refresh the page. This project taught me how to utilize JavaScript and taught me how to use localStorage to maintain user data when the page refreshes. 
 
 ## Made With
-JavaScript
-CSS
-HTML
+* JavaScript
+* CSS
+* HTML
 
 ## Live Website
 https://gabriellapinto.github.io/taskinator/
